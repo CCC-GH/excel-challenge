@@ -1,2 +1,1 @@
-# excel-challenge
-This Repository is for 01-Excel Homework
+# This Repository is for 01-Excel Homework

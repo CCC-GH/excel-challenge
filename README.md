@@ -1,7 +1,7 @@
 # This Repository is for 01-Excel Homework
 - Posted within is a spreasheet analysis, ccc_01-Excel_HW_Instructions_StarterBook
 - Workbook contains verious worksheets analysting kickstarter campaign data.
-
+-------------
 ### Assignment Analysis:
  #### 1. Given the provided data, what are the three conclusions we can draw about Kickstarter campaigns?
   - Chance of campaign success is inversely proportional to goal amount (greater the Goal, the chance of its success goes down).
